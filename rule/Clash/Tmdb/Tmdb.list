@@ -6,3 +6,9 @@
 # TOTAL: 2
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tvdb.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,justwatch.com
